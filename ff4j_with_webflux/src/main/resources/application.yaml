@@ -1,0 +1,17 @@
+server:
+  port: ${PORT:8081}
+ff4j:
+  api:
+    context-path: /api/ff4j
+springdoc:
+  swagger-ui:
+    tags-sorter: "alpha"
+    operations-sorter: "alpha"
+  group-configs:
+    - group: "root"
+      pathsToMatch: "/**"
+      packagesToScan: "org.ff4j.spring.boot.starter.webflux.sample.rest"
+spring:
+  thymeleaf:
+    mode: HTML
+    cache: false

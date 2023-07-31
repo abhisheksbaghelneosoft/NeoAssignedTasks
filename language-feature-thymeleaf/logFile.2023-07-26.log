@@ -1,0 +1,11 @@
+2237 [main] INFO  c.f.l.LanguageFeatureApplication -- Starting LanguageFeatureApplication using Java 20.0.1 with PID 63324 (/home/user/NeoProjects/language-feature-thymeleaf/language-feature/target/classes started by user in /home/user/NeoProjects/language-feature-thymeleaf)
+2242 [main] INFO  c.f.l.LanguageFeatureApplication -- No active profile set, falling back to 1 default profile: "default"
+4027 [main] INFO  o.s.c.context.scope.GenericScope -- BeanFactory id=1a3acc9b-96b1-373e-a9d7-d11f256d9ed1
+5350 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver -- Exposing 1 endpoint(s) beneath base path '/actuator'
+6194 [main] INFO  o.s.b.w.e.netty.NettyWebServer -- Netty started on port 8989
+6249 [main] INFO  c.f.l.LanguageFeatureApplication -- Started LanguageFeatureApplication in 5.206 seconds (process running for 6.816)
+25232 [reactor-http-epoll-2] ERROR Ff4jController -- Disabled : frenchLang
+25233 [reactor-http-epoll-2] INFO  Ff4jController -- <-------------------frenchLang : {"uid":"frenchLang","enable":false,"description":null,"group":null,"permissions":[],"flippingStrategy":null,"customProperties":{}}------------------->
+25234 [reactor-http-epoll-2] INFO  Ff4jController -- <-------------------restCall : {"uid":"restCall","enable":false,"description":null,"group":null,"permissions":[],"flippingStrategy":null,"customProperties":{}}------------------->
+25234 [reactor-http-epoll-2] INFO  Ff4jController -- <-------------------fileLogger : {"uid":"fileLogger","enable":true,"description":null,"group":null,"permissions":[],"flippingStrategy":null,"customProperties":{}}------------------->
+25234 [reactor-http-epoll-2] INFO  Ff4jController -- <-------------------consoleLogger : {"uid":"consoleLogger","enable":false,"description":null,"group":null,"permissions":[],"flippingStrategy":null,"customProperties":{}}------------------->

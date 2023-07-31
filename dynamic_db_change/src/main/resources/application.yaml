@@ -1,0 +1,23 @@
+app:
+  datasource:
+    main:
+      jdbc-url: jdbc:mysql://localhost:3306/main?useSSL=false
+      username: root
+      password: password
+    clienta:
+      jdbc-url: jdbc:mysql://localhost:3306/client_a?useSSL=false
+      username: root
+      password: password
+    clientb:
+      jdbc-url: jdbc:mysql://localhost:3306/client_b?useSSL=false
+      username: root
+      password: password
+
+
+database:
+  hibernate:
+    schema_update: update
+    dialect: org.hibernate.dialect.MySQL5Dialect
+    show_sql: true
+    format_sql: true
+

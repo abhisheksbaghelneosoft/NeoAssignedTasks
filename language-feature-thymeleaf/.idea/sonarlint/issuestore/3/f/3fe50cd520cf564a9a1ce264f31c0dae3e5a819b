@@ -1,0 +1,22 @@
+
+{
+java:S1192"YDefine a constant instead of duplicating this literal "In list of appenders :: " 3 times.(¬”İªúÿÿÿÿ8ŞŞöà™1
+t
+java:S1192"RDefine a constant instead of duplicating this literal " :: isStarted :: " 7 times.(¬”İªúÿÿÿÿ8ŞŞöà™1
+^
+java:S3252"AUse static access with "org.slf4j.Logger" for "ROOT_LOGGER_NAME".(Ûğê¨8ïŞöà™1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ª£©=8ğŞöà™1
+I
+java:S1602",Remove useless curly braces around statement(µßß£8ñŞöà™1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬”İªúÿÿÿÿ8òŞöà™1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»«á¨şÿÿÿÿ8óŞöà™1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ûù˜¬şÿÿÿÿ8ôŞöà™1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Õãí¿ÿÿÿÿÿ8õŞöà™1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(Õãí¿ÿÿÿÿÿ8õŞöà™1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(¬”İªúÿÿÿÿ8öŞöà™1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ÿËÏùÿÿÿÿ8÷Şöà™1
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ãŒ‚Æ8øŞöà™1
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(ñ ÃÇ8ûŞöà™1
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(“‹Œ§şÿÿÿÿ8şŞöà™1
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(¬”İªúÿÿÿÿ8€ßöà™1
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(ª€ï8ßöà™1

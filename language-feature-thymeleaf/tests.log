@@ -1,0 +1,19 @@
+1820 [main] INFO  c.f.l.LanguageFeatureApplication - Starting LanguageFeatureApplication using Java 20.0.1 with PID 39987 (/home/user/NeoProjects/language-feature-thymeleaf/language-feature/target/classes started by user in /home/user/NeoProjects/language-feature-thymeleaf)
+1824 [main] INFO  c.f.l.LanguageFeatureApplication - No active profile set, falling back to 1 default profile: "default"
+3929 [main] INFO  o.s.c.context.scope.GenericScope - BeanFactory id=ff05dca5-dc3c-373a-bf75-c2be9ab8f6bc
+4090 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.ff4j.languagefeature.FeignInterface.FakerApiClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+5360 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+6200 [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8989
+6252 [main] INFO  c.f.l.LanguageFeatureApplication - Started LanguageFeatureApplication in 5.333 seconds (process running for 6.882)
+1559 [main] INFO  c.f.l.LanguageFeatureApplication - Starting LanguageFeatureApplication using Java 20.0.1 with PID 40079 (/home/user/NeoProjects/language-feature-thymeleaf/language-feature/target/classes started by user in /home/user/NeoProjects/language-feature-thymeleaf)
+1565 [main] INFO  c.f.l.LanguageFeatureApplication - No active profile set, falling back to 1 default profile: "default"
+3819 [main] INFO  o.s.c.context.scope.GenericScope - BeanFactory id=ff05dca5-dc3c-373a-bf75-c2be9ab8f6bc
+4058 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.ff4j.languagefeature.FeignInterface.FakerApiClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+5449 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+6326 [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8989
+6392 [main] INFO  c.f.l.LanguageFeatureApplication - Started LanguageFeatureApplication in 5.798 seconds (process running for 6.835)
+66950 [reactor-http-epoll-2] ERROR c.f.l.controller.Ff4jController - Enabled : restCall
+66952 [reactor-http-epoll-2] INFO  c.f.l.controller.Ff4jController - <-------------------frenchLang : {"uid":"frenchLang","enable":true,"description":null,"group":null,"permissions":[],"flippingStrategy":null,"customProperties":{}}------------------->
+66952 [reactor-http-epoll-2] INFO  c.f.l.controller.Ff4jController - <-------------------restCall : {"uid":"restCall","enable":true,"description":null,"group":null,"permissions":[],"flippingStrategy":null,"customProperties":{}}------------------->
+66952 [reactor-http-epoll-2] INFO  c.f.l.controller.Ff4jController - <-------------------fileLogger : {"uid":"fileLogger","enable":false,"description":null,"group":null,"permissions":[],"flippingStrategy":null,"customProperties":{}}------------------->
+66953 [reactor-http-epoll-2] INFO  c.f.l.controller.Ff4jController - <-------------------consoleLogger : {"uid":"consoleLogger","enable":true,"description":null,"group":null,"permissions":[],"flippingStrategy":null,"customProperties":{}}------------------->

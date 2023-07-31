@@ -1,0 +1,15 @@
+@import url("https:/./fonts.googleapis.com/css2?family=Albert+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+.main-container{
+  background: #c9d6ff; 
+	background: -webkit-linear-gradient(
+		to right,
+		#e2e2e2,
+		#c9d6ff
+	); 
+	background: linear-gradient(
+		to right,s
+		#e2e2e2,
+		#c9d6ff
+	); 
+}

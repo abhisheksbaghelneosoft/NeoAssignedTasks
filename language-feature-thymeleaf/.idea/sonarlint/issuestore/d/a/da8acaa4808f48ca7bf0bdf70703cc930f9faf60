@@ -1,0 +1,14 @@
+
+j
+java:S1192 "HDefine a constant instead of duplicating this literal "ui-view" 3 times.(ÓÒÚöüÿÿÿÿ8à€ªà™1
+T
+java:S2629("7Use the built-in formatting to construct this argument.(¤ÈÆ²8á€ªà™1
+Y
+java:S2629,"7Use the built-in formatting to construct this argument.(“Üûÿÿÿÿ8á€ªà™1
+^
+java:S3457("AFormat specifiers should be used instead of string concatenation.(¤ÈÆ²8ñ€ªà™1
+W
+java:S2209)"5Change this instance-reference to a static reference.(ğä¢şÿÿÿÿ8´£ªà™1
+c
+java:S3457,"AFormat specifiers should be used instead of string concatenation.(“Üûÿÿÿÿ8ò€ªà™1
+]	java:S1253"<This block of commented-out lines of code should be removed.(–¥é‚øÿÿÿÿ8ô€ªà™1
