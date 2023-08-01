@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Circuit_Breaker_And_HttpExchange-main.iml" filepath="$PROJECT_DIR$/.idea/Circuit_Breaker_And_HttpExchange-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loanservice/loanservice.iml" filepath="$PROJECT_DIR$/loanservice/loanservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rateservice/rateservice.iml" filepath="$PROJECT_DIR$/rateservice/rateservice.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+
+?
+java:S2629"$Invoke method(s) only conditionally.(ù‚‹Éùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãáé€
+Q
+java:S1854";Remove this useless assignment to local variable "message".(¥¢þ´
+B
+java:S1481",Remove this unused "message" local variable.(¥¢þ´
