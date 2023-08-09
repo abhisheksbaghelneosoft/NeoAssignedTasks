@@ -1,12 +1,20 @@
 spring:
+  redis:
+    host: ec2-52-66-117-3.ap-south-1.compute.amazonaws.com
+    port: 6379
+    password: password
+    timeToLive: 300
   mail:
     host: smtp.gmail.com
     port:  587
-    username: abhisheksinghbaghel8@gmail.com
-    password: gsbaukadmiabjrdm
+    username: team.db.adm@gmail.com
+    password: mbcswjezlktybwnp
     properties:
       mail:
         smtp:
           auth: true
           starttls:
             enable: true
+
+server:
+  port: 9999
